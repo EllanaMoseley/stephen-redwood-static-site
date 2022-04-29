@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Velveteen Rabbit	</title>
+	<atom:link href="/velveteen-rabbit/feed/" rel="self" type="application/rss+xml" />
+	<link>/velveteen-rabbit/</link>
+	<description></description>
+	<lastBuildDate>Sun, 23 Jul 2017 21:56:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>
+		By: Stephen Redwood		</title>
+		<link>/velveteen-rabbit/#comment-192</link>
+
+		<dc:creator><![CDATA[Stephen Redwood]]></dc:creator>
+		<pubDate>Sun, 23 Jul 2017 21:07:37 +0000</pubDate>
+		<guid isPermaLink="false">/?p=322#comment-192</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/velveteen-rabbit/#comment-176&quot;&gt;Robin Mitchell&lt;/a&gt;.
+
+Hi Robin, Sorry about that. Was convinced I&#039;d added a caption to them all, but it&#039;s not showing up and I can&#039;t seem to fix it. Have added a link to your site in the actual blog text instead.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/velveteen-rabbit/#comment-176">Robin Mitchell</a>.</p>
+<p>Hi Robin, Sorry about that. Was convinced I&#8217;d added a caption to them all, but it&#8217;s not showing up and I can&#8217;t seem to fix it. Have added a link to your site in the actual blog text instead.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Robin Mitchell		</title>
+		<link>/velveteen-rabbit/#comment-176</link>
+
+		<dc:creator><![CDATA[Robin Mitchell]]></dc:creator>
+		<pubDate>Fri, 14 Jul 2017 21:47:25 +0000</pubDate>
+		<guid isPermaLink="false">/?p=322#comment-176</guid>
+
+					<description><![CDATA[Hi Stephen, could you credit the photographer please.  Thanks.]]></description>
+			<content:encoded><![CDATA[<p>Hi Stephen, could you credit the photographer please.  Thanks.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

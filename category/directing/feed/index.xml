@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Directing | Stephenredwood.com</title>
+	<atom:link href="/category/directing/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 17 Mar 2017 22:50:39 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>Charlie</title>
+		<link>/charlie/</link>
+					<comments>/charlie/#respond</comments>
+		
+		<dc:creator><![CDATA[Stephen Redwood]]></dc:creator>
+		<pubDate>Wed, 08 Feb 2017 02:21:39 +0000</pubDate>
+				<category><![CDATA[Directing]]></category>
+		<category><![CDATA[Theatre]]></category>
+		<guid isPermaLink="false">/?p=230</guid>
+
+					<description><![CDATA[I&#8217;ve been directing a little one person piece these last few weeks, starring the lovely Victoria Chen. Charlie explores the meeting between an audience member (that&#8217;s you lucky people) and a young girl who has never left the building. With no concept of the outside world, you have to help her understand and process the reality of the world around her. ... <div><a href="/charlie/" class="more-link">Read More</a></div>]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ve been directing a little one person piece these last few weeks, starring the lovely<a href="https://www.victoriachen.co.uk/"> Victoria Chen</a>. <i>Charlie</i> explores the meeting between an audience member (that&#8217;s you lucky people) and a young girl who has never left the building. With no concept of the outside world, you have to help her understand and process the reality of the world around her. Good luck!</p>
+<p><a href="/wp-content/uploads/2017/02/IMG_2710-0.png"><img src="/wp-content/uploads/2017/02/IMG_2710-0.png" alt="" /></a><br />
+It&#8217;s really exciting to be working on such an intimate piece, and I can&#8217;t wait for people to experience it.  Vic is an amazing actress who&#8217;s great to work with; extremely dedicated and talented.</p>
+<p>It&#8217;s taking place at the Scottish Storytelling Centre in Edinburgh Feb 10th, 11th and 12th and produced by Mohamed Shaifulbahri of the <a href="http://www.bhumicollective.com/bhumi">Bhumi Collective</a>. Hopefully I&#8217;ll see you there!</p>
+<p>UPDATE! 20/2/2017<br />
+We&#8217;ve been nominated for the Best Performance Award. Fingers crossed, although I&#8217;m sure there are loads of amazing pieces up for it as well.</p>
+<p>&nbsp;</p>
+<p>UPDATE! 17/3/2017<br />
+We won the Best Performance award! Literally so proud of Vic and all the hard work she put in.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/charlie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

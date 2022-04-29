@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Film | Stephenredwood.com</title>
+	<atom:link href="/category/film/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 24 May 2016 13:56:55 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>Death (of a) Salesman</title>
+		<link>/death-of-a-salesman/</link>
+					<comments>/death-of-a-salesman/#respond</comments>
+		
+		<dc:creator><![CDATA[Stephen Redwood]]></dc:creator>
+		<pubDate>Sun, 24 Apr 2016 13:05:06 +0000</pubDate>
+				<category><![CDATA[Film]]></category>
+		<guid isPermaLink="false">/?p=192</guid>
+
+					<description><![CDATA[I&#8217;ve had the pleasure of working on Reaper, the DFTV graduation film written and directed by the lovely Amber Simpson. It&#8217;s being premiered in a cinema (I am so nervous you would not believe!) and filming went really well. The hardest thing about film is handing over to the director. As a film actor, you hardly ever see your takes. ... <div><a href="/death-of-a-salesman/" class="more-link">Read More</a></div>]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ve had the pleasure of working on Reaper, the DFTV graduation film written and directed by the lovely Amber Simpson.</p>
+<p>It&#8217;s being premiered in a cinema (I am so nervous you would not believe!) and filming went really well.</p>
+<p>The hardest thing about film is handing over to the director. As a film actor, you hardly ever see your takes. You have to trust that your preparation is coming across, and that the director will tell you when your work needs improvement.</p>
+<p>I also had the opportunity to work with the amazing Daniel Portman. (GoT) There are moments in your career where working with someone stands out as a highlight and this was definitely one of mine. Having such a giving and generous actor to work with, was a fantastic experience and I honestly learnt a tonne from him.</p>
+<p>I can&#8217;t wait to see the finished project.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/death-of-a-salesman/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>True Value</title>
+		<link>/true-value/</link>
+					<comments>/true-value/#respond</comments>
+		
+		<dc:creator><![CDATA[Stephen Redwood]]></dc:creator>
+		<pubDate>Sat, 30 Jan 2016 14:30:26 +0000</pubDate>
+				<category><![CDATA[Film]]></category>
+		<guid isPermaLink="false">/?p=202</guid>
+
+					<description><![CDATA[Filmed with Director Alix Austin for the first time today. Alix was in the year above me at the Royal Conservatoire of Scotland and is a very talented screen director. It was wonderful to work with someone so passionate about their projects. Sharp and on point, the film looks very slick and I&#8217;m delighted to have been a part of ... <div><a href="/true-value/" class="more-link">Read More</a></div>]]></description>
+										<content:encoded><![CDATA[<p>Filmed with Director Alix Austin for the first time today. Alix was in the year above me at the Royal Conservatoire of Scotland and is a very talented screen director. It was wonderful to work with someone so passionate about their projects. Sharp and on point, the film looks very slick and I&#8217;m delighted to have been a part of it. I&#8217;m sure Alix and her company LoneLara Films are going to be very successful. Above is the shot on the monitor of me, Iola and Red Madrell. Unfortunately the scene was eventually cut out of the film, which was a shame, but the art of storytelling is if it&#8217;s not contributing to the story then it shouldn&#8217;t be in there. Ultimately, the story is the most important thing. It&#8217;s not about stars, or getting your moment in the spotlight because that doesn&#8217;t matter in the long term. What endures, in films, are great stories. Powerfully and economically told. I&#8217;m immensely proud to have been part of the project.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/true-value/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
